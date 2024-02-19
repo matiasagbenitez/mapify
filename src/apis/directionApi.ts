@@ -11,4 +11,4 @@ const directionApi = axios.create({
     },
 });
 
-export default directionApi;
+export default directionApi; 
